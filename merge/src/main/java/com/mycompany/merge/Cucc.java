@@ -11,5 +11,5 @@ package com.mycompany.merge;
  * @author poker07
  */
 public class Cucc {
-    
+    int kajszibarack=0;
 }
